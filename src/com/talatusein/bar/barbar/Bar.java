@@ -1,2 +1,4 @@
-package com.talatusein.bar.barbar;public class Bar {
+package com.talatusein.bar.barbar;
+
+public class Bar {
 }
