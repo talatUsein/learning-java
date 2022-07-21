@@ -1,2 +1,4 @@
-package com.talatusein;public class PrimitiveVariables {
+package com.talatusein;
+
+public class PrimitiveVariables {
 }
